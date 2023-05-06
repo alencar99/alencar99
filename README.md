@@ -1,15 +1,10 @@
  ### print('Olá, me chamo Alisson')
  <hr>
 
-Cursando Redes de Computadores, na Esácio
-
-
-
-
-
-
-
-
+- Cursando Redes de Computadores na Esácio;
+- Comecei a estudar programação há mais de 1 ano e estou em transição de carreira;
+- Amante da linguagem Python e de tudo que está ao redor;
+- Bastante vontade de aprender!;
 
 <h1>Ferramentas e Tecnologias</h1>
 
