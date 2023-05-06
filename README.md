@@ -1,7 +1,8 @@
-### print('Olá, mundo')
+### print('Olá, mundo!')
 
-### print('Tecnologias')
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+### Ferramentas
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
+          
           
 <!--
 **alencar99/alencar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
