@@ -1,6 +1,5 @@
 **<h1>Bem vindo! Me chamo Alisson!</h1>**
 <hr>
-<br>
 <p>- Cursando Redes de Computadores na Esácio;</p>
 <p>- Estudo programação há mais de 1 ano e estou em transição de carreira;</p>
 <p>- Amante da linguagem Python e de tudo que está ao redor;</p>
