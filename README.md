@@ -1,9 +1,9 @@
 **<h1>Bem vindo! Me chamo Alisson!</h1>**
 <hr>
-<p align="justify">- Cursando Redes de Computadores na Esácio;</p>
-<p align="center">- Estudo programação há mais de 1 ano e estou em transição de carreira;</p>
-<p align="center">- Amante da linguagem Python e de tudo que está ao redor;</p>
-<p align="center">- Bastante vontade de aprender!;</p>
+<p>- Cursando Redes de Computadores na Esácio;</p>
+<p>- Estudo programação há mais de 1 ano e estou em transição de carreira;</p>
+<p>- Amante da linguagem Python e de tudo que está ao redor;</p>
+<p>- Bastante vontade de aprender!;</p>
 <hr>
 
 **<h3>Ferramentas e Tecnologias</h3>**
