@@ -1,13 +1,13 @@
 **<h1>Bem vindo! Me chamo Alisson!</h1>**
 <hr>
-<p>- Cursando Redes de Computadores na Esácio;</p>
-<p>- Estudo programação há mais de 1 ano e estou em transição de carreira;</p>
-<p>- Amante da linguagem Python e de tudo que está ao redor;</p>
-<p>- Bastante vontade de aprender!;</p>
+<p align="center">- Cursando Redes de Computadores na Esácio;</p>
+<p align="center">- Estudo programação há mais de 1 ano e estou em transição de carreira;</p>
+<p align="center">- Amante da linguagem Python e de tudo que está ao redor;</p>
+<p align="center">- Bastante vontade de aprender!;</p>
 <hr>
 
 **<h3>Ferramentas e Tecnologias</h3>**
-  <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="23"/>
+  <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="23"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="23"/>
   <imgsrc="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="23"</p>
 
