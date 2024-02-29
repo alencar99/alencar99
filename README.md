@@ -20,5 +20,5 @@ _<h3 align="center">Tecnologias</h3>_
 _<h3 align="center">Contato</h3>_
 
 <p align="center">    
-<a href ="mailto:alissonsts910@gmail.com"> <img src="https://devicon-website.vercel.app/api/gmail/original.svg"target="_blank" height="23"></a>   
-<a href="https://www.linkedin.com/in/alisson-alencar99/ " target="_blank" height="23"> <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" target = " _blank " height = "23"></a></p>
+<a href ="mailto:alissonsts910@gmail.com"> <img src="https://devicon-website.vercel.app/api/Gmail/original.svg"target="_blank" width="40"></a>   
+<a href="https://www.linkedin.com/in/alisson-alencar99/ " target="_blank"> <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" target = " _blank " width="40"></a></p>
