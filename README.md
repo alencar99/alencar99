@@ -19,6 +19,6 @@ _<h3 align="center">Tecnologias</h3>_
 
 _<h3 align="center">Contato</h3>_
 
-<p align="center"><a href="https://instagram.com/alencar.st " target="_blank "><img src=" https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white " target =" _blank" height="23"></a>    
-<a href ="mailto:alissonsts910@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank" height="23"></a>   
-<a href="https://www.linkedin.com/in/alisson-alencar99/ " target="_blank" height="23"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white " target = " _blank " height = "23"></a></p>
+<p align="center">    
+<a href ="mailto:alissonsts910@gmail.com"> <img src="https://devicon-website.vercel.app/api/gmail/original.svg"target="_blank" height="23"></a>   
+<a href="https://www.linkedin.com/in/alisson-alencar99/ " target="_blank" height="23"> <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" target = " _blank " height = "23"></a></p>
