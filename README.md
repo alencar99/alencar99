@@ -19,4 +19,4 @@ _<h3 align="center">Tecnologias</h3>_
 
 _<h3 align="center">Contato</h3>_
 
-<p align="center"><a herf=""> <img src="https://devicon-website.vercel.app/api/linkedin/original.svg?color=%23FFFFFF" width="40"> </a></p>
+<p align="center"><a herf="https://www.linkedin.com/in/alisson-alencar99/"> <img src="https://devicon-website.vercel.app/api/linkedin/original.svg?color=%23FFFFFF" width="40"> </a></p>
