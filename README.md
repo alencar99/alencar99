@@ -1,10 +1,4 @@
 _<h1>Welcome!</h1>_
-<hr>
-<p>- Studying Computer Networks at Esácio;</p>
-<p>- I'm a programmer for more than 1 year and I'm looking to improve my skills;</p>
-<p>- Lover of the Python language and everything around it, but always willing to learn new technologies;</p>
-<p>- enough willingness to learn!;</p>
-<hr>
 
 **_<h3>Tools and Technologies</h3>_**
   <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="23"/>
