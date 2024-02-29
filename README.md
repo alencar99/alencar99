@@ -1,20 +1,34 @@
-_<h1>Welcome!</h1>_
-<hr>
-<p>- Studying Computer Networks at Esácio;</p>
-<p>- I'm a programmer for more than 1 year and I'm looking to improve my skills;</p>
-<p>- Lover of the Python language and everything around it, but always willing to learn new technologies;</p>
-<p>- enough willingness to learn!;</p>
-<hr>
+# Perfil de [Seu Nome]
 
-**_<h3>Tools and Technologies</h3>_**
-  <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="23"/>
-  <img src="[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)" height="23"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="23"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="23"/></p>
+## Sobre Mim
+- Cursando Redes de Computadores na Esácio.
+- Programador há mais de 1 ano, apaixonado por Python e sempre aberto a aprender novas tecnologias.
+- Tenho uma forte vontade de aprender e aprimorar minhas habilidades.
 
-**_<h3>Databases</h3>_**
+## Habilidades
+- Linguagens: Python, [outras linguagens que você domina].
+- Desenvolvimento Web: Django, Flask.
+- Redes de Computadores: [habilidades específicas que você possui].
+- Bancos de Dados: [bancos de dados que você conhece].
+
+## Projetos Destacados
+- [Nome do Projeto 1](link para o projeto): Breve descrição do projeto.
+- [Nome do Projeto 2](link para o projeto): Breve descrição do projeto.
+- [Nome do Projeto 3](link para o projeto): Breve descrição do projeto.
+
+## Recursos de Aprendizagem Recomendados
+- [Curso de Redes de Computadores no Coursera](link para o curso).
+- [Python Crash Course](link para o livro).
+- [Automate the Boring Stuff with Python](link para o livro).
+
+## Contatos
+- LinkedIn: [Seu perfil do LinkedIn](link para o perfil).
+- GitHub: [Seu perfil do GitHub](link para o perfil).
+- E-mail: [Seu endereço de e-mail](endereço de e-mail).
+
+## Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)](link para o seu perfil do GitHub)
+
   <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="23"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="23"/></p>
 
