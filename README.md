@@ -1,5 +1,4 @@
 _<h2 align="center">Bem vindo ao meu perfil!</h2>_
-<hr>
 
 _<h3 align="center">Tecnologias</h3>_
 
@@ -17,6 +16,9 @@ _<h3 align="center">Tecnologias</h3>_
 <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23FFFFFF" width="40"></p>
-<hr>
 
 _<h3 align="center">Contato</h3>_
+
+<p align="center"><img src="https://devicon-website.vercel.app/api/instagram/original.svg" width="40">
+<img src="https://devicon-website.vercel.app/api/gmail/original.svg" width="40">
+<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="40"></p>
