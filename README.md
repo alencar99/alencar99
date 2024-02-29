@@ -7,7 +7,7 @@
 <img id="img" src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF" width="40">
 <img id="img" src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%230087C1" width="40">
 <img id="img" src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="40">
+<img src="https://devicon-website.vercel.app/api/postgresql/original.svg" width="40">
 <img id="img" src="https://devicon-website.vercel.app/api/html5/original.svg" width="40">
 <img id="img" src="https://devicon-website.vercel.app/api/css3/original.svg" width="40">
 <img id="img" src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="40">
