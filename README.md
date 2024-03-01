@@ -5,7 +5,7 @@ dos conceitos e em especial uma linguagem: Python. Desde então busco aprimorar 
 
 <br>
 
-_<h3 align="center">Tecnologias</h3>_
+_<h3>Tecnologias</h3>_
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23007146" width="40">
