@@ -1,6 +1,6 @@
 _<h2 align="center">Bem vindo ao meu perfil!</h2>_
 
-<p align="justify">Estudante de Redes de Computadores na Estácio, entrei no mundo da programação em 2021, por pura curiosidade. Acabei gostando muito dos conceitos e em especial uma linguagem: Python. Desde então, busco aprimorar minhas habilidades diáriamente para poder aplicar da forma mais precisa possível.</p>
+<p align="justify">Sou Desenvolvedor Backend</p>
 
 <br>
 
