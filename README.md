@@ -1,6 +1,6 @@
 _<h2 align="center">Bem vindo ao meu perfil!</h2>_
 
-<p align="justify">Sou Desenvolvedor Backend</p>
+<p align="center">Sou Desenvolvedor Backend</p>
 
 <br>
 
