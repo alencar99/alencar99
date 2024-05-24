@@ -1,5 +1,5 @@
 _<h2>Bem vindo ao meu perfil!</h2>_
-<p>Desenvolvedor FullStack, piauiense e dedicado!</p>
+<p>Desenvolvedor FullStack</p>
 <br>
 
 _<h3>Tecnologias e ferramentas</h3>_
