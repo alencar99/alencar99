@@ -14,7 +14,7 @@ _<h3 align="center">Tecnologias</h3>_
 <p align="center"><img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/git/original.svg" width="40">
-<img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" width="40">
+<img src="https://devicon-website.vercel.app/api/react/original.svg"></img>
 <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40"></p>
