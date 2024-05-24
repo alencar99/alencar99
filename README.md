@@ -10,8 +10,8 @@ _<h3>Tecnologias e ferramentas</h3>_
 <img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%230087C1" width="40">
 <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" width="40">
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40"></p>
-<p><img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40">
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40">
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/git/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/react/original.svg" width='40'></img>
