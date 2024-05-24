@@ -2,7 +2,7 @@ _<h2>Bem vindo ao meu perfil!</h2>_
 
 <br>
 
-_<h3>Tecnologias</h3>_
+_<h3>Tecnologias e ferramentas</h3>_
 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 <img src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23007146" width="40">
