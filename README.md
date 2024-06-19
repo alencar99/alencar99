@@ -9,8 +9,7 @@ _<h2>Tecnologias e ferramentas</h2>_
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="40">
-<img src="https://devicon-website.vercel.app/api/git/original.svg" width="40">
-<img src="https://devicon-website.vercel.app/api/react/original.svg" width='40'></img>
+<img src="https://devicon-website.vercel.app/api/git/original.svg" width="40"></img>
 <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/pycharm/original.svg" width="40">
 <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40"></p>
